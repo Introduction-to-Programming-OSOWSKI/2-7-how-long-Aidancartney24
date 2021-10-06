@@ -1,6 +1,6 @@
 #WRITE YOUR CODE IN THIS FILE
 def howlong(w):
 
-    print(len(w))
+    return(len(w))
 
 howlong("dog")
