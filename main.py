@@ -1,5 +1,5 @@
 #WRITE YOUR CODE IN THIS FILE
-def howlong(w):
+def howLong(w):
     return len(w)
 
-howlong("dog")
+howLong("dog")
